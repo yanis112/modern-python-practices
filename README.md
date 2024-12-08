@@ -1,6 +1,6 @@
-# 🚀 Project: \[modern-python-practices] - Coding Like a Pro 
+# 🚀 Project: modern-python-practices - Coding Like a Pro 
 
-Welcome to \[Ymodern-python-practices]! This project is not just about getting things done; it's about getting them done ***right*** (and with style 😎). We believe in clean, efficient, and maintainable code, and we're not afraid to use the best tools to achieve that.
+Welcome to ***modern-python-practices*** This project is not just about getting things done; it's about getting them done ***right*** (and with style 😎). We believe in clean, efficient, and maintainable code, and we're not afraid to use the best tools to achieve that.
 
 ## Table of Contents
 
